@@ -1,4 +1,4 @@
-# flutter_gif_trail
+# flutter_splashscreen_example
 
 A new Flutter project.
 
