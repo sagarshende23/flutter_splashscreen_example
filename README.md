@@ -19,10 +19,18 @@ Splash Screen help Brand to get Noticed Or Brand Awareness so Today I am going t
 </p>
 
 
-
 ## Watch the Video Tutorial for How to create Splash Screen in flutter App
 
 [![](https://raw.githubusercontent.com/sagarshende23/flutter_splashscreen_example/master/spalsh%20screen%20in%20flutter%20app.png)](https://youtu.be/QnglGHffUIo)
+
+<h2 align="center">
+    <br>
+  Download the Following App for Preview 
+  <br>
+</h2>
+<p align="center">
+<a href="https://api.codemagic.io/artifacts/8fec2d07-c78d-4019-86ba-26f4d4b5c200/c41ef987-d483-4098-886d-1dcd888ee599/app-release.apk" title="Image from PNG Image"><img src="https://pngimage.net/wp-content/uploads/2018/05/download-android-app-png-4.png" height=85px width=350px alt="download android app png 4"></a>
+</p>
 
 # 💻Written Tutorial
 Splash Screen:- https://alltechsavvy.com/splash-screen-in-flutter-app/
