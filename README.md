@@ -21,7 +21,7 @@ Splash Screen help Brand to get Noticed Or Brand Awareness so Today I am going t
 
 ## Watch the Video Tutorial for How to create Splash Screen in flutter App
 
-[![](https://raw.githubusercontent.com/sagarshende23/flutter_splashscreen_example/master/spalsh%20screen%20in%20flutter%20app.png)](https://youtu.be/QnglGHffUIo)
+[![](https://raw.githubusercontent.com/sagarshende23/flutter_splashscreen_example/master/spalsh%20screen%20in%20flutter%20app.png)](https://youtu.be/g9AtFHFj1j0)
 
 <h2 align="center">
     <br>
